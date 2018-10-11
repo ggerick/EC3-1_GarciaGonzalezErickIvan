@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FAF606F8-9AFC-42A4-B85B-5A034601ACAD}|Default">
+  <MonoDevelop.Ide.ItemProperties.EC3-1__GarciaGonzalezErickIvan PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EC3-1_GarciaGonzalezErickIvan/Program.cs">
+    <Files>
+      <File FileName="EC3-1_GarciaGonzalezErickIvan/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/EC3-1_GarciaGonzalezErickIvan/EC3-1_GarciaGonzalezErickIvan/bin/Debug/EC3-1_GarciaGonzalezErickIvan.exe
+/Users/AlanGarcia/Projects/EC3-1_GarciaGonzalezErickIvan/EC3-1_GarciaGonzalezErickIvan/bin/Debug/EC3-1_GarciaGonzalezErickIvan.pdb
+/Users/AlanGarcia/Projects/EC3-1_GarciaGonzalezErickIvan/EC3-1_GarciaGonzalezErickIvan/obj/x86/Debug/EC3-1_GarciaGonzalezErickIvan.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/EC3-1_GarciaGonzalezErickIvan/EC3-1_GarciaGonzalezErickIvan/obj/x86/Debug/EC3-1_GarciaGonzalezErickIvan.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/EC3-1_GarciaGonzalezErickIvan/EC3-1_GarciaGonzalezErickIvan/obj/x86/Debug/EC3-1_GarciaGonzalezErickIvan.exe
+/Users/AlanGarcia/Projects/EC3-1_GarciaGonzalezErickIvan/EC3-1_GarciaGonzalezErickIvan/obj/x86/Debug/EC3-1_GarciaGonzalezErickIvan.pdb
